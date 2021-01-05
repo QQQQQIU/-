@@ -1,5 +1,5 @@
 ******
-**HDMI输入**
+## **HDMI输入**
 ******  
 高清多媒体接口（High Definition Multimedia Interface，HDMI）是一种全数字化视频和声音发送接口，可以发送未压缩的音频及视频信号。以下为不同的HDMI分辨率模式下对应的垂直、水平及时钟频率。
 
