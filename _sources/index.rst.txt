@@ -39,13 +39,13 @@
 
    demo/连接外部显示设备.rst
 
-   demo/连接外部扬声设备.rst
+   demo/连接外部扬声器.rst
 
    demo/清洁过滤器.rst
 
    demo/清洁投影仪.rst
 
-   demo/色彩褪色或很淡.rst
+   demo/色彩褪色或色彩很淡.rst
 
    demo/端口规格.rst
 
